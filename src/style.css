@@ -1,14 +1,12 @@
 @font-face{
     font-family: 'MyFont';
-    src: url('./fontawesome-webfont.woff2') format('woff2');         
-    font-weight: 1000;
-    font-style: normal;
+    src: url('aclonica-v8-latin-regular.woff2') format('woff2');         
+
 }
 
 
 
 .hello {
     color:red;
-    background: url('./icon.jpg');
-    font-family: 'MyFont'; 
+    font-family: 'MyFont';
 }
